@@ -1,0 +1,6 @@
+D:\Calismalarim\ASP\TodoList\TodoList.EntityLayer\bin\Debug\TodoList.EntityLayer.dll
+D:\Calismalarim\ASP\TodoList\TodoList.EntityLayer\bin\Debug\TodoList.EntityLayer.pdb
+D:\Calismalarim\ASP\TodoList\TodoList.EntityLayer\obj\Debug\TodoList.EntityLayer.csproj.AssemblyReference.cache
+D:\Calismalarim\ASP\TodoList\TodoList.EntityLayer\obj\Debug\TodoList.EntityLayer.csproj.CoreCompileInputs.cache
+D:\Calismalarim\ASP\TodoList\TodoList.EntityLayer\obj\Debug\TodoList.EntityLayer.dll
+D:\Calismalarim\ASP\TodoList\TodoList.EntityLayer\obj\Debug\TodoList.EntityLayer.pdb

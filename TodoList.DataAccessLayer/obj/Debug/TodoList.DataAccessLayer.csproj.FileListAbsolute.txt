@@ -1,0 +1,14 @@
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\bin\Debug\TodoList.DataAccessLayer.dll.config
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\bin\Debug\TodoList.DataAccessLayer.dll
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\bin\Debug\TodoList.DataAccessLayer.pdb
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\bin\Debug\TodoList.EntityLayer.dll
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\bin\Debug\TodoList.EntityLayer.pdb
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\obj\Debug\TodoList.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\obj\Debug\TodoList.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\obj\Debug\TodoList.DataAccessLayer.csproj.CopyComplete
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\obj\Debug\TodoList.DataAccessLayer.dll
+D:\Calismalarim\ASP\TodoList\TodoList.DataAccessLayer\obj\Debug\TodoList.DataAccessLayer.pdb
